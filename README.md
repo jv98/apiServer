@@ -8,13 +8,13 @@ npm nodemon if dont have installed
 npm start //run projekt
 
 ## Use
-#first Get
+##first Get
 is just check for server 
-#othere Get 
+##othere Get 
 is for you all the items 
-#Delete 
+##Delete 
 for delting one item change the nummber in den of http
-#Put 
+##Put 
 here you kan change the name of items
-#Post
+##Post
 add new item to items and id also 
