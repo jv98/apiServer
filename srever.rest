@@ -4,7 +4,7 @@ GET  http://localhost:3000/
 GET http://localhost:3000/api/courses
 ###
 
-DELETE http://localhost:3000/api/courses/100
+DELETE http://localhost:3000/api/courses/1
 
 ###
 
@@ -12,7 +12,7 @@ PUT http://localhost:3000/api/courses/1
 Content-Type: application/json
 
 {
-    "id": "1002",
+    
     "name":"det här ny coruse"
 }
 
